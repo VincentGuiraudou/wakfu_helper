@@ -1,0 +1,1612 @@
+[
+    {
+        "cmd": "incarnam",
+        "full_name": "Donjon D'Incarnam",
+        "level": "3",
+        "position": "Incarnam | Plaines d'Incarnam",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Olavrann l'Externel",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "chacha",
+        "full_name": "Chez La Mère Michou",
+        "level": "9",
+        "position": "Astrub | Cité d'Astrub",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Maine Cooyne",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "Ce donjon seul est faisable uniquement seul, il peut donc y avoir maximum 3 persos"
+    },
+    {
+        "cmd": "maisonnowel",
+        "full_name": "Maison Du Père Nowel",
+        "level": "10",
+        "position": "Île de Nowel",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Père Nowel",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "Il faut avoir la clé pour rentrer"
+    },
+    {
+        "cmd": "ateliernowel",
+        "full_name": "Atelier Du Père Nowel",
+        "level": "10",
+        "position": "Île de Nowel",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Grinch",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "Il faut finir la quête où le Père Nowel demande de récupérer ses habits pour pouvoir acceder au donjon"
+    },
+    {
+        "cmd": "sorciere",
+        "full_name": "Antre De La Sorcière",
+        "level": "10",
+        "position": "Astrub | Cimetière d'Astrub",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Sorcière",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "Pour pouvoir rentrer, il faut jeter 4 **morceaux de citrouille** dans le chaudron en face du donjon"
+    },
+    {
+        "cmd": "bouftou",
+        "full_name": "Pâturages des Bouftous",
+        "level": "12",
+        "position": "Astrub | Tainela",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Bouftou Royal",
+        "boss_image": "https://imgur.com/1v2vKvf.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "Les **Chefs de Guerre Bouftous** peuvent dropper les **Bottes Usées d’Hogmeiser**"
+    },
+    {
+        "cmd": "tofu",
+        "full_name": "Le Tofulailler",
+        "level": "12",
+        "position": "Astrub | Champs d'Astrub",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Tofu Royal",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "larve",
+        "full_name": "Larventura",
+        "level": "12",
+        "position": "Astrub | Egouts d'Astrub",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Shin Larve",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "bovis",
+        "full_name": "Antre de Bovis",
+        "level": "21",
+        "position": "Amakna | Plaine des Riktus",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Bovis, la Laine rocheuse",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "boufbowl",
+        "full_name": "Stade de Boufbowl de l'Ancienne Bonta",
+        "level": "21",
+        "position": "Bonta | Kara",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Khann Karkass",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "abrakne",
+        "full_name": "Donjon des Abraknes",
+        "level": "21",
+        "position": "Astrub | Forêt d'Astrub",
+        "relic": "Aucune",
+        "epic": "Anneau de Satisfaction (Anneau | Niveau 20)",
+        "boss_name": "Abraknelle",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "caveau",
+        "full_name": "Le Caveau Relevé",
+        "level": "21",
+        "position": "Astrub | Cimetière d'Astrub",
+        "relic": "Aucune",
+        "epic": "Ceinture Fulgurante (Ceinture | Niveau 20)",
+        "boss_name": "Morfor",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "piou",
+        "full_name": "Piou Lahoupe",
+        "level": "21",
+        "position": "Astrub | Montagnes d'Astrub",
+        "relic": "Aucune",
+        "epic": "Bottes de Satisfaction (Bottes | Niveau 20)",
+        "boss_name": "Piou Royal",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "trouduculte",
+        "full_name": "Petit Trou du Culte d'Ogrest",
+        "level": "21",
+        "position": "Zinit | Plage du Zinit",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "mekamomie",
+        "full_name": "Palais de la Mékamomie",
+        "level": "36",
+        "position": "Brâkmar | Landes de Sidimote",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Kroutânkharton",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "oktapodas",
+        "full_name": "Sanctuaire d'Oktapodas",
+        "level": "36",
+        "position": "Sufokia | Montages des Flaqueux",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "palaismarin",
+        "full_name": "Pâlais Mârin",
+        "level": "36",
+        "position": "Bilbysa | Costa del Gelax",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "moogr",
+        "full_name": "Le Papaturage Royal",
+        "level": "36",
+        "position": "Amakna | Champs qui Chantent",
+        "relic": "Aucune",
+        "epic": "Le Lamdofasol (Casque | Niveau 50)",
+        "boss_name": "Moogr Royale",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "craqueleur",
+        "full_name": "La Montagne Adezieu",
+        "level": "",
+        "position": "",
+        "relic": "Aucune",
+        "epic": "Les Itgo (Epaulettes | Niveau 50)",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "plante",
+        "full_name": "Les Champs Pourchan",
+        "level": "36",
+        "position": "Amakna | Champs qui Chantent",
+        "relic": "Aucune",
+        "epic": "La Fourbash (Arme à 2 mains | Niveau 50)",
+        "boss_name": "Plante Carnivore",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "minerale1",
+        "full_name": "La Tour Minérale",
+        "level": "36",
+        "position": "Tour Minérale",
+        "relic": "Aucune",
+        "epic": [
+            "La Coquillle (Plastron | Niveau 50)",
+            "Ceinture Kâ-Iba (Ceinture | Niveau 50)",
+            "Pantoufles Bleues (Bottes | Niveau 125)"
+        ],
+        "boss_name": "Agonie la Déterrée",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "perlouze",
+        "full_name": "Antre de la Perlouze Noire",
+        "level": "51",
+        "position": "Poup Island | La Crique qui Croque",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "bouftousauvage",
+        "full_name": "L'Antre Oubliée",
+        "level": "51",
+        "position": "Domaine Sauvage",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "bwork",
+        "full_name": "Donjon Bwork",
+        "level": "51",
+        "position": "Domaine Sauvage",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "skouale",
+        "full_name": "La Skouale Sèche",
+        "level": "51",
+        "position": "Zinit | Plage Sauvage",
+        "relic": "Aucune",
+        "epic": "Anneau Insangsé (Anneau | Niveau 65)",
+        "boss_name": "Royal Skouale",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "mollusky",
+        "full_name": "Donjon Mollusky",
+        "level": "51",
+        "position": "Zinit | Plage Sauvage",
+        "relic": "Aucune",
+        "epic": "L'Amollusky (Amulette | Niveau 65)",
+        "boss_name": "Kralaboss",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "kokoko",
+        "full_name": "Kokokolantha",
+        "level": "51",
+        "position": "Sufokia | Dune Kane",
+        "relic": "Aucune",
+        "epic": "Bâton Braider (Arme à 1 main | Niveau 65)",
+        "boss_name": "Grokokolantha",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "crabe",
+        "full_name": "Château des Cwabes",
+        "level": "51",
+        "position": "Sufokia | Dune Kane",
+        "relic": "Aucune",
+        "epic": "La Capplosive (Cape | Niveau 65)",
+        "boss_name": "Cwabe Royal",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "rat",
+        "full_name": "Les Ratacombes",
+        "level": "66",
+        "position": "Île aux Moines",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Ratachouille",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "excarnus",
+        "full_name": "Antre D'Excarnus",
+        "level": "66",
+        "position": "Domaine Sauvage",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Excarnus",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "orrok",
+        "full_name": "Temple du Grand Orrok",
+        "level": "66",
+        "position": "Kelba | Pics de Kelba",
+        "relic": "Aucune",
+        "epic": "Protection du Divin Orrok (Plastron | Niveau 80)",
+        "boss_name": "Grand Orrok",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "corbeau",
+        "full_name": "La Corbeau-Cave",
+        "level": "66",
+        "position": "Kelba | Landes de Kelba",
+        "relic": "Aucune",
+        "epic": "Cape en série limitée (Cappe | Niveau 80)",
+        "boss_name": "Korbot K-800",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "truche",
+        "full_name": "Truchière Abandonnée",
+        "level": "66",
+        "position": "Bonta | Kara",
+        "relic": "Ceinture Rasboulaire du Rasboul (Ceinture | Niveau 80)",
+        "epic": "Aucune",
+        "boss_name": "Hongrue, Haute Truche",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "gligli",
+        "full_name": "Domaine du Petit Groin",
+        "level": "66",
+        "position": "Bonta | Plaines de Cania",
+        "relic": "Ceinture Rasboulaire du Rasboul (Ceinture | Niveau 80)",
+        "epic": "Aucune",
+        "boss_name": "Gligli Royal",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "tsu",
+        "full_name": "Palais du Tsu",
+        "level": "66",
+        "position": "Mines de Bonta - Galeries",
+        "relic": "Aucune",
+        "epic": "Casque de l'Ecaflip de Foudre (Casque | Niveau 80)",
+        "boss_name": "Tsar Tsu Tsu",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "mulou",
+        "full_name": "Autel de la Lune",
+        "level": "66",
+        "position": "Royaume Sadida | Clairière des Mulous",
+        "relic": "Galons Fred (Epaulettes | Niveau 80)",
+        "epic": "Anneau du Cheval percé (Anneau | Niveau 80)",
+        "boss_name": "Lune Géante",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "arakne",
+        "full_name": "Donjon Arakne",
+        "level": "66",
+        "position": "Royaume Sadida | Colline Entoilée",
+        "relic": "Galons Fred (Epaulettes | Niveau 80)",
+        "epic": "Anneau du Cheval percé (Anneau | Niveau 80)",
+        "boss_name": "Veuve Noire",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "sliptorium",
+        "full_name": "Sliptorium",
+        "level": "81",
+        "position": "Île aux Moines",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Nonne",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "misolee",
+        "full_name": "La Misolée",
+        "level": "81",
+        "position": "Katrepat",
+        "relic": "Aucune",
+        "epic": "Rapière Viktorieuse (Arme à 1 main | Niveau 80)",
+        "boss_name": "Viktoria-France Kenstein",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "wagnar",
+        "full_name": "Château de Wagnar",
+        "level": "81",
+        "position": "Katrepat",
+        "relic": "Aucune",
+        "epic": "Sain Turastil (Ceinture | Niveau 95)",
+        "boss_name": "Vampyro",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "trool",
+        "full_name": "La Trool Academy",
+        "level": "81",
+        "position": "Foire du Trool",
+        "relic": "Aucune",
+        "epic": "Piquants du Guerrier Trool (Epaulettes | Niveau 80)",
+        "boss_name": "El Pochito",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "moule",
+        "full_name": "Le Hammamoule",
+        "level": "81",
+        "position": "Bilbysa | Costa del Gelax",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Bilbymoule Nacrée",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "megathon",
+        "full_name": "La Salle de Musculation de Megathon",
+        "level": "81",
+        "position": "Astrub | Egouts d'Astrub",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Megathon",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "atelierabandonne",
+        "full_name": "L'Atelier Abandonné",
+        "level": "81",
+        "position": "Kelba | Pics de Kelba",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "slek",
+        "full_name": "Caverne des Slekymoses",
+        "level": "81",
+        "position": "Zinit | Grotte Slek",
+        "relic": "Aucune",
+        "epic": "Amulette Excrue (Amulette | Niveau 95)",
+        "boss_name": "Reine Slek",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "scara",
+        "full_name": "Scarrière Abandonnée",
+        "level": "81",
+        "position": "Brâkmar | Champs Pabong",
+        "relic": "Aucune",
+        "epic": "Bottes Botbodek (Bottes | Niveau 95)",
+        "boss_name": "Scaraboss",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "chafer",
+        "full_name": "Nécropoil de Morbax",
+        "level": "81",
+        "position": "Brâkmar | Landes de Sidimote ou Mines de Brâkmar - Galeries",
+        "relic": "Aucune",
+        "epic": "Bottes Botbodek (Bottes | Niveau 95)",
+        "boss_name": "Chaferfu, roi Chafer",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "meulou",
+        "full_name": "Antre du Meulou",
+        "level": "81",
+        "position": "Royaume Sadida | Clairière des Mulous",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Milkar le Meulou",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "boufrog",
+        "full_name": "Antre du Boufrog",
+        "level": "96",
+        "position": "Brâkmar | Capitale de Brâkmar",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Boufrog",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "merkator",
+        "full_name": "La Chaufferie de Merkator",
+        "level": "96",
+        "position": "Katrepat",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Merkator",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "chuchobase",
+        "full_name": "Chuchobase",
+        "level": "96",
+        "position": "Royaume Chuchoku | Chuchoplaine",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "chuchantier",
+        "full_name": "Chuchantier",
+        "level": "96",
+        "position": "Royaume Chuchoku | Chuchoplaine",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "chuchampsdetir",
+        "full_name": "Chuchamps de Tir",
+        "level": "96",
+        "position": "Royaume Chuchoku | Chuchoplaine",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "chuchocage",
+        "full_name": "Chuchocage",
+        "level": "96",
+        "position": "Royaume Chuchoku | Chuchoplaine",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "bilby",
+        "full_name": "L'Arène Dansante",
+        "level": "96",
+        "position": "Bilbysa | Costa del Gelax",
+        "relic": "Gelano (Anneau | Niveau 65)",
+        "epic": "Ceinture du Dieu Ecaflip (Ceinture | Niveau 110)",
+        "boss_name": "Bilby Queen",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "glagla",
+        "full_name": "Le Glaglacier Cornu",
+        "level": "96",
+        "position": "Ile Sberg | La Banquise de Sberg",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Lady Glagla",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "yechti",
+        "full_name": "Niche du Yech'ti'Wawa",
+        "level": "96",
+        "position": "Ile Sberg | Village Ensevli Ensevli",
+        "relic": "Memento Mori (Epaulettes | Niveau 110)",
+        "epic": "Claymore de Fhenris (Arme à 2 mains | Niveau 110)",
+        "boss_name": "Yech'ti'Wawa",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "gelee",
+        "full_name": "Donjon Gelée",
+        "level": "96",
+        "position": "Bilbysa | Antichambre de la Fête",
+        "relic": "Gelano (Anneau | Niveau 65)",
+        "epic": "Ceinture du Dieu Ecaflip (Ceinture | Niveau 110)",
+        "boss_name": "Empereur Gelax",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "corbeaunoir",
+        "full_name": "Antre du Corbeau Noir",
+        "level": "96",
+        "position": "Kelba | Pics de Kelba",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Corbeau Noir",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "magikriktus",
+        "full_name": "Repaire des Magik Riktus",
+        "level": "96",
+        "position": "Amakna | Plaine des Riktus",
+        "relic": "La Brouteuse (Cape | Niveau 110)",
+        "epic": "Cape de Visibilité (Cape | Niveau 110)",
+        "boss_name": "Chapo Magik",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "dragoncochon",
+        "full_name": "Antre du Dragon-Cochon",
+        "level": "111",
+        "position": "Bonta | Fourré de Tonkult",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Dragon-Cochon",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "hagenglass",
+        "full_name": "Le Pot d'Hagën-Glass",
+        "level": "111",
+        "position": "Ile Sberg | La Banquise de Sberg",
+        "relic": "Amulette du Glourséleste (Amulette | Niveau 110)",
+        "epic": "Aucune",
+        "boss_name": "Hagën-Glass",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "ambassadrice",
+        "full_name": "Alie de l'Ambassadrice",
+        "level": "111",
+        "position": "Ile Sberg | Village Ensevli Ensevli",
+        "relic": "Solomonk (Casque | Niveau 125)",
+        "epic": "Aucune",
+        "boss_name": "Kya, Missiz Frizz",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "tourgelee",
+        "full_name": "La Tour Gelée",
+        "level": "111",
+        "position": "Ile Sberg | Château de Harebourg",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Sylargh",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "cacterre",
+        "full_name": "Donjon Cacterre",
+        "level": "111",
+        "position": "Saharach",
+        "relic": "Bottes Harry (Bottes | Niveau 140)",
+        "epic": "Aucune",
+        "boss_name": "Piktus",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "tourmenteur",
+        "full_name": "Fosse du Tourmenteur",
+        "level": "111",
+        "position": "Récif des Shushardes | Dimension Shukrute",
+        "relic": "Bouclier d'Asse (Seconde main | Niveau 140)",
+        "epic": "Bagus Shushu (Anneau | Niveau 125)",
+        "boss_name": "Spectrex le Tourmenteur",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "smare",
+        "full_name": "Caverne Smarrante",
+        "level": "111",
+        "position": "Zinit | Bas Flanc - Smares",
+        "relic": "Le Kel'Dwa Imparfait (Anneau | Niveau 125)",
+        "epic": "Plastron du Patron (Plastron | Niveau 125)",
+        "boss_name": "Smarillion",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "flaqueux",
+        "full_name": "Donjon Flaqueux",
+        "level": "111",
+        "position": "Sufokia | Montagne des Flaqueux",
+        "relic": "Aucune",
+        "epic": "Pom d'or des Esprits Ridés (Amulette | Niveau 125)",
+        "boss_name": "Flaque Royale",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "pichine",
+        "full_name": "La Pichine",
+        "level": "111",
+        "position": "Mines de Sufokia - Galeries",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "lenald",
+        "full_name": "Temple de l'Empeleul Lenald",
+        "level": "126",
+        "position": "Ile des Wabbits | Glosse Calotte",
+        "relic": "Puissante Ceinture Fulgurante (Ceinture | Niveau 125)",
+        "epic": "Chode Foullule Lenald (Ceinture | Niveau 140)",
+        "boss_name": "Empeleul Lenald",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "blackwabbit",
+        "full_name": "Donjon Black Wabbit",
+        "level": "126",
+        "position": "Ile des Wabbits | Glosse Calotte",
+        "relic": "Puissante Ceinture Fulgurante (Ceinture | Niveau 125)",
+        "epic": "Amulette Amewtte (Amulette | Niveau 125)",
+        "boss_name": "Emiw Black Wabbit",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "wabbit",
+        "full_name": "Donjon Wabbit",
+        "level": "126",
+        "position": "Ile des Wabbits | Soutewwains Mowbides",
+        "relic": "Aucune",
+        "epic": "Dague de Vizion (Seconde main | Niveau 140)",
+        "boss_name": "Gwand Viziw Wabbit",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "mihmol",
+        "full_name": "Sanctuaire de Mihmol",
+        "level": "126",
+        "position": "Récif des Shushardes | Dimension Shukrute",
+        "relic": "Talisman de Mihmol (Amulette | Niveau 155)",
+        "epic": "Bagus Shushu (Anneau | Niveau 125)",
+        "boss_name": "Mihmol l'Empaleur",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "spore",
+        "full_name": "Donjon Noirespore",
+        "level": "126",
+        "position": "Saharash | La Fungopée",
+        "relic": "Epaulettes du Dark Vlad (Epaulettes | Niveau 155)",
+        "epic": "Aucune",
+        "boss_name": "Telob le Champmane",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "facocultee",
+        "full_name": "La Fac Occultée",
+        "level": "126",
+        "position": "Ile de Rok",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Vilenya",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "phorreur",
+        "full_name": "Domaine de la Trouffe Salée",
+        "level": "126",
+        "position": "Zinit | Bas Flanc - Phorreurs",
+        "relic": "Le Kel'Dwa (Anneau | Niveau 140)",
+        "epic": "Cape Aurale (Cape | Niveau 140)",
+        "boss_name": "Fripon",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "abraknyde",
+        "full_name": "Donjon Abraknyde",
+        "level": "126",
+        "position": "Bonta | Fourré de Tonkult",
+        "relic": "Coiffe du Chêne Mou (Casque | Niveau 140)",
+        "epic": "Coiffetière (Casque | Niveau 140)",
+        "boss_name": "Chêne Mou",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "vignoble",
+        "full_name": "Le Vignoble Ignoble",
+        "level": "141",
+        "position": "Île aux Moines",
+        "relic": "Bottes Cérémoniales du Seigneur des Rats (Bottes | Niveau 155)",
+        "epic": "Chevalierre (Anneau | Niveau 140)",
+        "boss_name": "Grande Prêtresse Sydonia",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "wawabbit",
+        "full_name": "Château du Wa Wabbit",
+        "level": "141",
+        "position": "Ile des Wabbits | Fowtewesse du Wa",
+        "relic": "Ortiz (Cape | Niveau 140)",
+        "epic": [
+            "Couwonne du Wa Wabbit (Casque | Niveau 155)",
+            "Wo-bottées (Bottes | Niveau 155)"
+        ],
+        "boss_name": "Wa Wabbit",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "zwombbit",
+        "full_name": "Wesewve de Cawottes Abandonnée",
+        "level": "141",
+        "position": "Ile des Wabbits | Soutewwains Mowbides",
+        "relic": "Ortiz (Cape | Niveau 140)",
+        "epic": "Epaulettes Génétiquement Modifiées (Epaulettes | Niveau 140)",
+        "boss_name": "Gwand Wabbit GM",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "srambad",
+        "full_name": "Donjon Srambad",
+        "level": "141",
+        "position": "Srambad",
+        "relic": "Mangelâme (Plastron | Niveau 155)",
+        "epic": "Kimono du Srameureux (Plastron | Niveau 155)",
+        "boss_name": "Venâme le Mangelombre",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "enutrosor",
+        "full_name": "Donjon Enutrosor",
+        "level": "141",
+        "position": "Enutrosor",
+        "relic": "Porte-Clef doré (Anneau | Niveau 155)",
+        "epic": "L'Orture (Ceinture | Niveau 155)",
+        "boss_name": "Jamall'Auneth le Porte-clés",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "blop",
+        "full_name": "Blopéra",
+        "level": "141",
+        "position": "Brâkamr | Macheville",
+        "relic": "Coiffe de Goultard (Casque | Niveau 155)",
+        "epic": "Anneau de Mummra (Anneau | Niveau 155)",
+        "boss_name": "Blopgang Amadeus Blopzart",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "bulbe",
+        "full_name": "Source du Mal",
+        "level": "141",
+        "position": "Pandalousie | Marais Salé",
+        "relic": "Ceinture Chafeuse (Ceinture | Niveau 155)",
+        "epic": "Epaulettes de l'oiseau vermillon (Epaulettes | Niveau 155)",
+        "boss_name": "Bulbrute",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "meka",
+        "full_name": "Fabrique Méka",
+        "level": "156",
+        "position": "Xélorium - Passé",
+        "relic": "Caphasard (Cape | Niveau 170)",
+        "epic": "Bottes Indestructibles (Bottes | Niveau 170)",
+        "boss_name": "Vertox l'Intemporel",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "ebou",
+        "full_name": "Donjon E-Bou",
+        "level": "156",
+        "position": "Xélorium - Présent",
+        "relic": "Aiguille d'Outre-Temps (Arme à 1 main | Niveau 170)",
+        "epic": "Bouclier Durable (Seconde main | Niveau 170)",
+        "boss_name": "Raipiode l'Infréquençable",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "serreacier",
+        "full_name": "Plateau des Haut-Vents",
+        "level": "156",
+        "position": "Kelba | Pics de Kelba",
+        "relic": "Aucune",
+        "epic": "Aucune",
+        "boss_name": "Serre d'Acier",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "kali",
+        "full_name": "Repaire de Kali",
+        "level": "156",
+        "position": "Zinit | Haut Flanc - Sbires de Kali",
+        "relic": "Sangles Sanglantes (Ceinture | Niveau 170)",
+        "epic": "La Barre Jô (Arme à 2 mains | Niveau 170)",
+        "boss_name": "Kali",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "riktuselite",
+        "full_name": "Donjon Riktus Elite",
+        "level": "156",
+        "position": "Mine d'Amakna - Tréfonds",
+        "relic": "Sceau Fulgurant (Anneau | niveau 170)",
+        "epic": "Epée Kyn (Arme à 2 mains | Niveau 170)",
+        "boss_name": "Le Riktus Masqué",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "roublar",
+        "full_name": "Roub'Bar",
+        "level": "156",
+        "position": "Mines de Sufokia - Tréfonds",
+        "relic": "Sceau Fulgurant (Anneau | niveau 170)",
+        "epic": "Culotte (Casque | Niveau 170)",
+        "boss_name": "Remington Smisse",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "lampionaute",
+        "full_name": "Le Lampionaute",
+        "level": "156",
+        "position": "Mines de Bonta - Tréfonds",
+        "relic": "Amulette du Mak Assutra (Amulette | niveau 170)",
+        "epic": "Aucune",
+        "boss_name": "Javého",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "patapoutre",
+        "full_name": "La Patapoutrerie",
+        "level": "156",
+        "position": "Mines de Brâkmar - Tréfonds",
+        "relic": "Amulette du Mak Assutra (Amulette | niveau 170)",
+        "epic": "Aucune",
+        "boss_name": "Mamapoutre",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "moon",
+        "full_name": "Cime du Grand Totem",
+        "level": "171",
+        "position": "Ile de Moon | Jungle de Moon",
+        "relic": "Aucune",
+        "epic": "Cape de Luk Ylook (Cape | Niveau 185)",
+        "boss_name": "Foul Moon",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "croco",
+        "full_name": "Donjon des Crocodailles",
+        "level": "171",
+        "position": "Ile de Moon | Plage de Moon",
+        "relic": "Dagues Réceuses (Seconde main | Niveau 185)",
+        "epic": "Crocs d'Or (Anneau | niveau 185)",
+        "boss_name": "Roi Dunîl",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "",
+        "full_name": "",
+        "level": "",
+        "position": "",
+        "relic": "A compléter",
+        "epic": "A compléter",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "kannivore",
+        "full_name": "Donjon des Kannivores",
+        "level": "171",
+        "position": "Ile de Moon | Sous Terrains de l'ïle de Moon",
+        "relic": "Dagues Réceuses (Seconde main | Niveau 185)",
+        "epic": "Plastron Sonneuse (Plastron | Niveau 185)",
+        "boss_name": "Grozépine",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "",
+        "full_name": "",
+        "level": "",
+        "position": "",
+        "relic": "A compléter",
+        "epic": "A compléter",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "kanniboul",
+        "full_name": "Donjon des Kannibouls",
+        "level": "171",
+        "position": "Ile de Moon | Jungle de Moon",
+        "relic": "Ceinture des Vents (Ceinture | Niveau 185)",
+        "epic": "Les Porte-Malheurs (Epaulettes | Niveau 185)",
+        "boss_name": "Kannistère",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "tropike",
+        "full_name": "Donjon des Tropikes",
+        "level": "171",
+        "position": "Ile de Moon | Plage de Moon",
+        "relic": "Ceinture des Vents (Ceinture | Niveau 185)",
+        "epic": "Talisman Songe (Amulette | Niveau 185)",
+        "boss_name": "Koko le Nutt",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "citeinterdite",
+        "full_name": "Cité Interdite",
+        "level": "171",
+        "position": "Pandalousie | Village des Pandissidans",
+        "relic": "Voile d'encre (Cape | Niveau 185)",
+        "epic": "Coiffe du dragon azuré (Casque | Niveau 185)",
+        "boss_name": "Pandore",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "gerbouille",
+        "full_name": "Donjon Gerbouille",
+        "level": "171",
+        "position": "Royaume Sadida | Galeries des Gerbouilles",
+        "relic": "Bottes de Poursuite (Bottes | Niveau 185)",
+        "epic": "Anna Bottes (Bottes | Niveau 185)",
+        "boss_name": "Maman Gerbouille",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "nogord",
+        "full_name": "Antre de Nogord l'Ezarélé",
+        "level": "186",
+        "position": "Inglorium",
+        "relic": "Dofus Prismatique (Emblème | Niveau 200)",
+        "epic": "Ceinture Prismatique (Ceinture | Niveau 200)",
+        "boss_name": "Nogord l'Ezarélé",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "blerox",
+        "full_name": "Tanière des Blérox",
+        "level": "186",
+        "position": "Zinit | Haut Flanc - Blérox",
+        "relic": "Mark VII (Plastron | Niveau 200)",
+        "epic": "Epaulettes Rubis (Epaulettes | Niveau 200)",
+        "boss_name": "Blérwitch le Furax",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "dormor",
+        "full_name": "Volcan Or'Hodruin",
+        "level": "186",
+        "position": "Zinit | Grotte du Dor'Mor",
+        "relic": "Manteau du Roi-Sorcier (Cape | Niveau 200)",
+        "epic": "Les Grôles Asse (Bottes | Niveau 200)",
+        "boss_name": "Sor'Hon, Seigneur de la Flamme",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "dragoeuf",
+        "full_name": "Sanctuaire des Dragoeufs",
+        "level": "186",
+        "position": "Zinit | Sommet - Dragoeufs",
+        "relic": "Bouclier Ventaille (Seconde main | Niveau 200)",
+        "epic": "Dragocoiffe Noire (Casque | Niveau 200)",
+        "boss_name": "Oeuf Antique",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "",
+        "full_name": "",
+        "level": "",
+        "position": "",
+        "relic": "A compléter",
+        "epic": "A compléter",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "ethernel",
+        "full_name": "La Crête Givrée",
+        "level": "186",
+        "position": "Zinit | Sommet - Ethernels",
+        "relic": "Amulette Ementaire Deluxe (Amulette | Niveau 200)",
+        "epic": "Tramontanneau (Anneau | Niveau 200)",
+        "boss_name": "Cendragon",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "",
+        "full_name": "",
+        "level": "",
+        "position": "",
+        "relic": "A compléter",
+        "epic": "A compléter",
+        "boss_name": "A compléter",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "minerale2",
+        "full_name": "La Tour Minérale",
+        "level": "186",
+        "position": "Tour Minérale",
+        "relic": [
+            "Rod Gerse (Arme à 2 mains | Niveau 200)",
+            "Sulik [Casque | Niveau 200)"
+        ],
+        "epic": [
+            "Compagne d'Agonie (Arme à 1 main | Niveau 200)",
+            "Plastron de Raval (Plastron | Niveau 200)",
+            "La Chape (Cape | Niveau 200)"
+        ],
+        "boss_name": "Agonie Coeur-Cristal",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "fantomepanda",
+        "full_name": "Tombeau de Pandala",
+        "level": "186",
+        "position": "Pandalousie | Cimetière",
+        "relic": "Coques Luche (Epaulettes | Niveau 200)",
+        "epic": "Bouclier de la tortue noire (Seconde main | Niveau 200)",
+        "boss_name": "Fantôme Tanukouï-San",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "fleopard",
+        "full_name": "Canyon des Fléopards",
+        "level": "186",
+        "position": "Pandalousie | Forêt Calcinée",
+        "relic": "Bottes Répané (Bottes | Niveau 200)",
+        "epic": "Amulette du tigre blanc (Amulette | niveau 200)",
+        "boss_name": "Fléogre",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "hibourg",
+        "full_name": "Usine Hibourg",
+        "level": "186",
+        "position": "Royaume Sadida | Forêt Déforestée",
+        "relic": "Cape Erforée (Cape | Niveau 200)",
+        "epic": "Anneau de Rozan (Anneau | Niveau 200)",
+        "boss_name": "Granduk Hibourg",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "ombrage",
+        "full_name": "Dimension-Objet d'Ombrage",
+        "level": "200",
+        "position": "Katrepat",
+        "relic": "Ceinture des Ombres (Ceinture | Niveau 200)",
+        "epic": "Coiffeuse Mortelle (Seconde main | Niveau 200)",
+        "boss_name": "Ombrage",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    },
+    {
+        "cmd": "ogrest",
+        "full_name": "Pointe du Mont Zinit",
+        "level": "200",
+        "position": "Zinit | Sommet - Ethernels",
+        "relic": "Colère d'Ogrest (Anneau | Niveau 200)",
+        "epic": "Souvenir de Dathura (Amulette | Niveau 200)",
+        "boss_name": "Ogrest",
+        "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
+        "strat": [
+            "A compléter"
+        ],
+        "other": "A compléter"
+    }
+]
