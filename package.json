@@ -1,18 +1,26 @@
 {
-    "name": "wakfu_helper",
-    "description": "Un bot créé pour aider dans le jeu Wakfu",
-    "keywords": [
-        "wakfu",
-        "helper"
-    ],
-    "author": "anmavtb <vincent.guiraudou@gmail.com> (https://vincentguiraudou.github.io/CV)",
-    "version": "0.1.0",
-    "main": "bot.js",
-    "scripts": {
-        "start": "node bot.js"
-    },
-    "dependencies": {
-        "discord.js": "^12.2.0",
-        "twitter": "^1.7.1"
-    }
+  "name": "wakfu_helper",
+  "description": "Un bot créé pour aider dans le jeu Wakfu",
+  "keywords": [
+    "wakfu",
+    "helper"
+  ],
+  "author": "anmavtb <vincent.guiraudou@gmail.com> (https://vincentguiraudou.github.io/CV)",
+  "version": "1.1.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "twitter": "^1.7.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VincentGuiraudou/wakfu_helper.git"
+  }
 }
