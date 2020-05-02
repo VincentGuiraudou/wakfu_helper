@@ -6,7 +6,11 @@
     "helper"
   ],
   "author": "anmavtb <vincent.guiraudou@gmail.com> (https://vincentguiraudou.github.io/CV)",
+<<<<<<< HEAD
+  "version": "1.1.1",
+=======
   "version": "1.1.0",
+>>>>>>> master
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
