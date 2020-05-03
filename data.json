@@ -9,11 +9,7 @@
     "boss_name": "Olavrann l'Externel",
     "boss_image": "https://i.imgur.com/SoJAp2s.png",
     "strat": ["Aucune particulière"],
-<<<<<<< HEAD
     "other": ["Aucun"]
-=======
-    "other": "Aucun"
->>>>>>> master
   },
   {
     "cmd": "chacha",
@@ -27,11 +23,9 @@
     "strat": [
       "Aucune à part que les cases de bordure soignent les ennemis et infiligent des dégats aux personnages"
     ],
-<<<<<<< HEAD
-    "other": ["Ce donjon est faisable uniquement seul, il peut donc y avoir maximum 3 persos"]
-=======
-    "other": "Ce donjon est faisable uniquement seul, il peut donc y avoir maximum 3 persos"
->>>>>>> master
+    "other": [
+      "Ce donjon est faisable uniquement seul, il peut donc y avoir maximum 3 persos"
+    ]
   },
   {
     "cmd": "maisonnowel",
@@ -47,11 +41,9 @@
       "Focus les cadeaux piégés invoqués par le boss",
       "Tuer tous les ennemis avant de focus le boss"
     ],
-<<<<<<< HEAD
-    "other": ["Il faut avoir la clé pour rentrer droppable sur le **Renne’Calcitrant** dans l'**Atelier du Père Nowel**"]
-=======
-    "other": "Il faut avoir la clé pour rentrer droppable sur le **Renne’Calcitrant** dans l'**Atelier du Père Nowel**"
->>>>>>> master
+    "other": [
+      "Il faut avoir la clé pour rentrer droppable sur le **Renne’Calcitrant** dans l'**Atelier du Père Nowel**"
+    ]
   },
   {
     "cmd": "ateliernowel",
@@ -67,11 +59,9 @@
       "Moins diffile que le mini-boss **Renne’Calcitrant**",
       "Faire attention à la zone d’explosion des Glyphes"
     ],
-<<<<<<< HEAD
-    "other": ["Il faut finir la quête où le Père Nowel demande de récupérer ses habits pour pouvoir acceder au donjon"]
-=======
-    "other": "Il faut finir la quête où le Père Nowel demande de récupérer ses habits pour pouvoir acceder au donjon"
->>>>>>> master
+    "other": [
+      "Il faut finir la quête où le Père Nowel demande de récupérer ses habits pour pouvoir acceder au donjon"
+    ]
   },
   {
     "cmd": "sorciere",
@@ -86,11 +76,9 @@
       "Finir son tour sur une case **Stabilisation** pour ne pas se faire repousser par le boss",
       "Il faut tuer toutes les **Images de la sorcière** pour réussir"
     ],
-<<<<<<< HEAD
-    "other": ["Pour pouvoir rentrer, il faut jeter 4 **morceaux de citrouille** dans le chaudron en face du donjon"]
-=======
-    "other": "Pour pouvoir rentrer, il faut jeter 4 **morceaux de citrouille** dans le chaudron en face du donjon"
->>>>>>> master
+    "other": [
+      "Pour pouvoir rentrer, il faut jeter 4 **morceaux de citrouille** dans le chaudron en face du donjon"
+    ]
   },
   {
     "cmd": "bouftou",
@@ -105,11 +93,9 @@
       "Le boss peut charger ce qui va sonner la cible",
       "Ne pas alligner les persos ou le boss peut faire très mal"
     ],
-<<<<<<< HEAD
-    "other": ["Les **Chefs de Guerre Bouftous** peuvent dropper les **Bottes Usées d’Hogmeiser**"]
-=======
-    "other": "Les **Chefs de Guerre Bouftous** peuvent dropper les **Bottes Usées d’Hogmeiser**"
->>>>>>> master
+    "other": [
+      "Les **Chefs de Guerre Bouftous** peuvent dropper les **Bottes Usées d’Hogmeiser**"
+    ]
   },
   {
     "cmd": "tofu",
@@ -123,11 +109,7 @@
     "strat": [
       "Le passif du boss **Puissance Wakfu** augmente ses dégâts et baisse ses réisitance dès qu'un joueur dépense du Wakfu"
     ],
-<<<<<<< HEAD
     "other": ["Aucun"]
-=======
-    "other": "Aucun"
->>>>>>> master
   },
   {
     "cmd": "larve",
@@ -142,11 +124,7 @@
       "Tous les tours, le boss invoque 3 cocons et en fait éclore 3 1 tour sur 2",
       "Il faut marcher sur les cocons pour les détruire"
     ],
-<<<<<<< HEAD
     "other": ["Aucun"]
-=======
-    "other": "Aucun"
->>>>>>> master
   },
   {
     "cmd": "bovis",
@@ -158,11 +136,7 @@
     "boss_name": "Bovis, la Laine rocheuse",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "boufbowl",
@@ -174,11 +148,7 @@
     "boss_name": "Khann Karkass",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "abrakne",
@@ -193,11 +163,7 @@
       "Le boss à un passif **Arakmure Abraknydienne** qui réduit les dégats subis de face et auggmente les dégats subis dans le dos",
       "Le boss à un boost de dégats finaux pour chaque monstre tué"
     ],
-<<<<<<< HEAD
     "other": ["Aucun"]
-=======
-    "other": "Aucun"
->>>>>>> master
   },
   {
     "cmd": "caveau",
@@ -211,11 +177,7 @@
     "strat": [
       "Le boss peut donner le passif **Âme Liée** a un monstre et 3 tours après, tous les persos au Corps à Corps de ce dernier meurent instentanément"
     ],
-<<<<<<< HEAD
     "other": ["Aucun"]
-=======
-    "other": "Aucun"
->>>>>>> master
   },
   {
     "cmd": "piou",
@@ -230,11 +192,7 @@
       "Le boss à peu de portée, il faut donc faire en sorte de l'éloigner",
       "Le sort **Amorce** de la **pioulette** transforme un **Piou** en **Gugu** au prochain tour de celle-ci"
     ],
-<<<<<<< HEAD
     "other": ["Aucun"]
-=======
-    "other": "Aucun"
->>>>>>> master
   },
   {
     "cmd": "trouduculte",
@@ -246,11 +204,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "mekamomie",
@@ -262,11 +216,7 @@
     "boss_name": "Kroutânkharton",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "oktapodas",
@@ -278,11 +228,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "palaismarin",
@@ -297,11 +243,9 @@
       "Ilfaut qu'un Pâti invoqué se trouve dans le zone du sort **Tremblement de Sâble** pour enlever l'invulnérabilité du boss pour le tour",
       "Arrivé à 20% de vie, le **Pâti Noir** invoque 2 clones qu'il faut tuer pour pouvoir achever le boss"
     ],
-<<<<<<< HEAD
-    "other": ["Il faut utiliser la **Pelle de la Mâdrâgue** et creuser dans le sable pour trouver la clé et avancer dans le donjon"]
-=======
-    "other": "Il faut utiliser la **Pelle de la Mâdrâgue** et creuser dans le sable pour trouver la clé et avancer dans le donjon"
->>>>>>> master
+    "other": [
+      "Il faut utiliser la **Pelle de la Mâdrâgue** et creuser dans le sable pour trouver la clé et avancer dans le donjon"
+    ]
   },
   {
     "cmd": "moogr",
@@ -317,11 +261,7 @@
       "L’état **Phéromones** est appliqué uniquement par les Moomouches et permet aux monstres de retirer des résistences Terre ainsi que de permettre au Boss d'utiliser certains sorts sur le porteur de l'état",
       "Le boss gagne 1 PW par tour et lorqu'un monstre est tué, à 5PW, il débloque un sort qui fait exploser les boubouzes et inflige des dgats au joueurs sur les glyphes"
     ],
-<<<<<<< HEAD
     "other": ["Aucun"]
-=======
-    "other": "Aucun"
->>>>>>> master
   },
   {
     "cmd": "craqueleur",
@@ -373,11 +313,7 @@
     "boss_name": "Agonie la Déterrée",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "perlouze",
@@ -389,11 +325,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "bouftousauvage",
@@ -402,14 +334,14 @@
     "position": "Domaine Sauvage",
     "relic": "Aucune",
     "epic": "Aucune",
-    "boss_name": "A compléter",
-    "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "strat": ["A compléter"],
-<<<<<<< HEAD
-    "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
+    "boss_name": "Grand Bouftou Sauvage",
+    "boss_image": "https://i.imgur.com/Z6suf0C.png",
+    "strat": [
+      "Le boss est invulnérable et invoque 2 totems aléatoirement sur la carte, si il y'en a déjà, il les déplace",
+      "Si un joueur commence son tour sur les glyphes autour des totems, il sera changé en **Bouftou spectral**",
+      "Un joueur transformé en bouftou peut utiliser le sort **Morsure de l’Esprit bouftou** sur le boss pour lui faire perdre son invulnérabilité jusqu'au tour du boss"
+    ],
+    "other": ["La méchanique pour vaincre l'archimonstre est identique"]
   },
   {
     "cmd": "bwork",
@@ -421,11 +353,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "skouale",
@@ -437,11 +365,7 @@
     "boss_name": "Royal Skouale",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "mollusky",
@@ -451,13 +375,11 @@
     "relic": "Aucune",
     "epic": "L'Amollusky (Amulette | Niveau 65)",
     "boss_name": "Kralaboss",
-    "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "strat": ["A compléter"],
-<<<<<<< HEAD
-    "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
+    "boss_image": "https://i.imgur.com/plk8djK.png",
+    "strat": ["Chaque monstre gagne 1 PW par tour ce qui débloque certains sorts, le boss en gagne également dès qu'il reçoit des dégats",
+             "Les glyphes de bordure et **Kralamouille** permettent d'infliger des dégats au boss sans monter ses PW",
+             "Si le boss est sur ces glyphes, il perdra ses PW et donc, ne pourra pas lancer son **High Voltage**"],
+    "other": ["Aucun"]
   },
   {
     "cmd": "kokoko",
@@ -469,11 +391,7 @@
     "boss_name": "Grokokolantha",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "crabe",
@@ -485,11 +403,7 @@
     "boss_name": "Cwabe Royal",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "rat",
@@ -501,11 +415,7 @@
     "boss_name": "Ratachouille",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "excarnus",
@@ -517,11 +427,7 @@
     "boss_name": "Excarnus",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "orrok",
@@ -533,11 +439,7 @@
     "boss_name": "Grand Orrok",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "corbeau",
@@ -549,11 +451,7 @@
     "boss_name": "Korbot K-800",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "truche",
@@ -565,11 +463,7 @@
     "boss_name": "Hongrue, Haute Truche",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "gligli",
@@ -581,11 +475,7 @@
     "boss_name": "Gligli Royal",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "tsu",
@@ -597,11 +487,7 @@
     "boss_name": "Tsar Tsu Tsu",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "mulou",
@@ -613,11 +499,7 @@
     "boss_name": "Lune Géante",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "arakne",
@@ -629,11 +511,7 @@
     "boss_name": "Veuve Noire",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "sliptorium",
@@ -645,11 +523,7 @@
     "boss_name": "Nonne",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "misolee",
@@ -661,11 +535,7 @@
     "boss_name": "Viktoria-France Kenstein",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "wagnar",
@@ -675,13 +545,14 @@
     "relic": "Aucune",
     "epic": "Sain Turastil (Ceinture | Niveau 95)",
     "boss_name": "Vampyro",
-    "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "strat": ["A compléter"],
-<<<<<<< HEAD
-    "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
+    "boss_image": "https://i.imgur.com/4GeTQPo.png",
+    "strat": ["Les cases de bordure des 3 premières salles transforment le joueur qui s'y trouve en goule ce qui le ferra se téléporter et prendre les dégats à la place du monstre attaqué pendant un tour, il est aussi blessé par les soins",
+             "Dans la 3ème salle, si un joueur est alligné avec une **Chauffe-souris**, celle-ci l'attirera vers une case de bordure et si un joueur frappe une **Chauffe-souris** sur un nuage alors qu'un autre joueru est trasformé en goule, ce dernier se téléportera à la place de la **Chauffe-souris** et mourra instantanément",
+             "Les cases de bordure de la salle du boss ont 33% de tuer instantanément le joueur qui s'y trouve",
+             "A chaque début de tour, le boss ferra perdre de la PO et des résistences à tous les joueurs qui lui font face",
+             "Si un joueur se retrouve téléporté sur le socle, détruire ce dernier ou le joueur mourra",
+             "Au coup final, le boss se bloque à 1PV, il suffit de survivre à son prochain tour et il finira par mourir de lui même au tour suivant"],
+    "other": ["Si un personnage meurt lors d’un combat, L'acces à la salle suivante est impossible"]
   },
   {
     "cmd": "trool",
@@ -693,11 +564,7 @@
     "boss_name": "El Pochito",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "moule",
@@ -709,11 +576,7 @@
     "boss_name": "Bilbymoule Nacrée",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "megathon",
@@ -725,11 +588,7 @@
     "boss_name": "Megathon",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "atelierabandonne",
@@ -741,11 +600,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "slek",
@@ -757,11 +612,7 @@
     "boss_name": "Reine Slek",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "scara",
@@ -770,14 +621,13 @@
     "position": "Brâkmar | Champs Pabong",
     "relic": "Aucune",
     "epic": "Bottes Botbodek (Bottes | Niveau 95)",
-    "boss_name": "Scaraboss",
-    "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "strat": ["A compléter"],
-<<<<<<< HEAD
-    "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
+    "boss_name": "Scarador",
+    "boss_image": "https://i.imgur.com/RSGdszw.png",
+    "strat": ["Le boss possède 99% de résistence dans tous les éléments et il invoque 4 **Scarafons** tous les 3 tours ou si il y'en a plus au début de son tour",
+             "Chaque **Scarafon** possède 99% de résistence dans un élément et des résistence normales pour les autres",
+             "A chaque fois qu'un **Scarafon** est tué, le boss perd sa résistence dans l'élément du **Scarafon** tué pendant 1 tour et récuperera de la vie si il reste d'autre scarafons en combat",
+             "Si les 4 **Scarafons** sont tués dans le même tour, le boss passer à -57% de résistence élémentaire pendant 1 tour"],
+    "other": ["Aucun"]
   },
   {
     "cmd": "chafer",
@@ -789,11 +639,7 @@
     "boss_name": "Chaferfu, roi Chafer",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "meulou",
@@ -805,11 +651,7 @@
     "boss_name": "Milkar le Meulou",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "boufrog",
@@ -821,11 +663,7 @@
     "boss_name": "Boufrog",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "merkator",
@@ -837,11 +675,7 @@
     "boss_name": "Merkator",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "chuchobase",
@@ -853,11 +687,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "chuchantier",
@@ -869,11 +699,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "chuchampsdetir",
@@ -885,11 +711,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "chuchocage",
@@ -901,11 +723,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "bilby",
@@ -917,11 +735,7 @@
     "boss_name": "Bilby Queen",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "glagla",
@@ -933,11 +747,7 @@
     "boss_name": "Lady Glagla",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "yechti",
@@ -947,13 +757,11 @@
     "relic": "Memento Mori (Epaulettes | Niveau 110)",
     "epic": "Claymore de Fhenris (Arme à 2 mains | Niveau 110)",
     "boss_name": "Yech'ti'Wawa",
-    "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "strat": ["A compléter"],
-<<<<<<< HEAD
-    "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
+    "boss_image": "https://i.imgur.com/5YLUYJ9.png",
+    "strat": ["Lorsqu'un monstre meurt, sauf **Mulmounes**, il se transforme en glace et cette dernière peut le réssuciter",
+             "Tous les monstres ont l'état **Engelures Eternelles** qui inflige des dégats si un joueur commence ou termine son tour au Corps à Corps d'un ennemi",
+             "Tous les 2 tours le boss lance le sort **Ren’Wawa** qui lui permet de renvoyer tous les sorts monocibles sur le lanceur, il faut donc le taper en utilisant des sorts de zone mais sans le cibler dirrectement"],
+    "other": ["Aucun"]
   },
   {
     "cmd": "gelee",
@@ -965,11 +773,7 @@
     "boss_name": "Empereur Gelax",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "corbeaunoir",
@@ -981,11 +785,7 @@
     "boss_name": "Corbeau Noir",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "magikriktus",
@@ -995,13 +795,12 @@
     "relic": "La Brouteuse (Cape | Niveau 110)",
     "epic": "Cape de Visibilité (Cape | Niveau 110)",
     "boss_name": "Chapo Magik",
-    "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
-    "strat": ["A compléter"],
-<<<<<<< HEAD
-    "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
+    "boss_image": "https://i.imgur.com/U8n9XvV.png",
+    "strat": ["Le boss est imunisé aux dégats directs",
+             "Si le boss est frappé dans le dos, il invoque un **Chapo Riktus** (1 invocation par tour de personnage)",
+             "Dès qu'il y'a 3 **Chapo Riktus** dans le combat, le boss perd son imunité aux dégats directs",
+             "Chaque **Chapo Riktus** invoque 1 à 2 Riktus pendant les 2 premiers tours"],
+    "other": ["Pour obtenir l'exploit **Les Sept Riktus III**, il faut achever le boss avec des dégâts indirects"]
   },
   {
     "cmd": "dragoncochon",
@@ -1013,11 +812,7 @@
     "boss_name": "Dragon-Cochon",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "hagenglass",
@@ -1029,11 +824,7 @@
     "boss_name": "Hagën-Glass",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "ambassadrice",
@@ -1045,11 +836,7 @@
     "boss_name": "Kya, Missiz Frizz",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "tourgelee",
@@ -1061,11 +848,7 @@
     "boss_name": "Sylargh",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "cacterre",
@@ -1077,11 +860,7 @@
     "boss_name": "Piktus",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "tourmenteur",
@@ -1093,11 +872,7 @@
     "boss_name": "Spectrex le Tourmenteur",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "smare",
@@ -1109,11 +884,7 @@
     "boss_name": "Smarillion",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "flaqueux",
@@ -1125,11 +896,7 @@
     "boss_name": "Flaque Royale",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "pichine",
@@ -1141,11 +908,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "lenald",
@@ -1157,11 +920,7 @@
     "boss_name": "Empeleul Lenald",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "blackwabbit",
@@ -1173,11 +932,7 @@
     "boss_name": "Emiw Black Wabbit",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "wabbit",
@@ -1189,11 +944,7 @@
     "boss_name": "Gwand Viziw Wabbit",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "mihmol",
@@ -1205,11 +956,7 @@
     "boss_name": "Mihmol l'Empaleur",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "spore",
@@ -1221,11 +968,7 @@
     "boss_name": "Telob le Champmane",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "facocultee",
@@ -1237,11 +980,7 @@
     "boss_name": "Vilenya",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "phorreur",
@@ -1253,11 +992,7 @@
     "boss_name": "Fripon",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "abraknyde",
@@ -1269,11 +1004,7 @@
     "boss_name": "Chêne Mou",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "vignoble",
@@ -1285,11 +1016,7 @@
     "boss_name": "Grande Prêtresse Sydonia",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "wawabbit",
@@ -1304,11 +1031,7 @@
     "boss_name": "Wa Wabbit",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "zwombbit",
@@ -1320,11 +1043,7 @@
     "boss_name": "Gwand Wabbit GM",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "srambad",
@@ -1336,11 +1055,7 @@
     "boss_name": "Venâme le Mangelombre",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "enutrosor",
@@ -1352,11 +1067,7 @@
     "boss_name": "Jamall'Auneth le Porte-clés",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "blop",
@@ -1368,11 +1079,7 @@
     "boss_name": "Blopgang Amadeus Blopzart",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "bulbe",
@@ -1384,11 +1091,7 @@
     "boss_name": "Bulbrute",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "meka",
@@ -1400,11 +1103,7 @@
     "boss_name": "Vertox l'Intemporel",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "ebou",
@@ -1416,11 +1115,7 @@
     "boss_name": "Raipiode l'Infréquençable",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "serreacier",
@@ -1432,11 +1127,7 @@
     "boss_name": "Serre d'Acier",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "kali",
@@ -1448,11 +1139,7 @@
     "boss_name": "Kali",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "riktuselite",
@@ -1464,11 +1151,7 @@
     "boss_name": "Le Riktus Masqué",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "roublar",
@@ -1480,11 +1163,7 @@
     "boss_name": "Remington Smisse",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "lampionaute",
@@ -1496,11 +1175,7 @@
     "boss_name": "Javého",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "patapoutre",
@@ -1512,11 +1187,7 @@
     "boss_name": "Mamapoutre",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "moon",
@@ -1528,11 +1199,7 @@
     "boss_name": "Foul Moon",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "croco",
@@ -1544,11 +1211,7 @@
     "boss_name": "Roi Dunîl",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "",
@@ -1560,11 +1223,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "kannivore",
@@ -1576,11 +1235,7 @@
     "boss_name": "Grozépine",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "",
@@ -1592,11 +1247,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "kanniboul",
@@ -1608,11 +1259,7 @@
     "boss_name": "Kannistère",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "tropike",
@@ -1624,11 +1271,7 @@
     "boss_name": "Koko le Nutt",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "citeinterdite",
@@ -1640,11 +1283,7 @@
     "boss_name": "Pandore",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "gerbouille",
@@ -1656,11 +1295,7 @@
     "boss_name": "Maman Gerbouille",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "nogord",
@@ -1672,11 +1307,7 @@
     "boss_name": "Nogord l'Ezarélé",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "blerox",
@@ -1688,11 +1319,7 @@
     "boss_name": "Blérwitch le Furax",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "dormor",
@@ -1704,11 +1331,7 @@
     "boss_name": "Sor'Hon, Seigneur de la Flamme",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "dragoeuf",
@@ -1720,11 +1343,7 @@
     "boss_name": "Oeuf Antique",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "",
@@ -1736,11 +1355,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "ethernel",
@@ -1752,11 +1367,7 @@
     "boss_name": "Cendragon",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "",
@@ -1768,11 +1379,7 @@
     "boss_name": "A compléter",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "minerale2",
@@ -1791,11 +1398,7 @@
     "boss_name": "Agonie Coeur-Cristal",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "fantomepanda",
@@ -1807,11 +1410,7 @@
     "boss_name": "Fantôme Tanukouï-San",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "fleopard",
@@ -1823,11 +1422,7 @@
     "boss_name": "Fléogre",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "hibourg",
@@ -1839,11 +1434,7 @@
     "boss_name": "Granduk Hibourg",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "ombrage",
@@ -1855,11 +1446,7 @@
     "boss_name": "Ombrage",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   },
   {
     "cmd": "ogrest",
@@ -1871,10 +1458,6 @@
     "boss_name": "Ogrest",
     "boss_image": "https://cdn.discordapp.com/embed/avatars/4.png",
     "strat": ["A compléter"],
-<<<<<<< HEAD
     "other": ["A compléter"]
-=======
-    "other": "A compléter"
->>>>>>> master
   }
 ]
