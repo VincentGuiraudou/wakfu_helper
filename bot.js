@@ -33,19 +33,6 @@ bot.once("ready", () => {
   console.log("Bot Ready !");
 });
 
-// twitter.get('statuses/user_timeline', params, function (error, data) { // 660534094983331840
-//     if (!error) {
-//         bot.send_message(bot.channels.get('660534094983331840'), "hello !")
-//         // const channel = bot.guilds.channel.get
-//         // console.log(channel);
-//         // channel.send(`@everyone Nouveau tweet de @Wakfu_FR !`);
-//         // channel.send(`https://twitter.com/Wakfu_FR/status/${data[0].id_str}`);
-//     }
-//     else {
-//         console.log(error);
-//     }
-// });
-
 bot.on("message", message => {
   if (message.content.startsWith(`${prefix}`)) {
     var cmd = message.content.substring(prefixLength).split(" ");
