@@ -1,1 +1,1 @@
-# wakfu_helper
+# Wakfu Helper
