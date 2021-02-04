@@ -34,7 +34,7 @@ bot.once("ready", () => {
 });
 
 bot.on("message", message => {
-  bot.user.setActivity('YouTube', { type: 'WATCHING' });
+  bot.user.setActivity("Wakfu | w!help", { type: "CUSTOM_STATUS" });
   if (message.content.startsWith(`${prefix}`)) {
     var cmd = message.content.substring(prefixLength).split(" ");
     switch (cmd[0]) {
