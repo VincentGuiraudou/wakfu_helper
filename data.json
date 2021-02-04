@@ -274,7 +274,7 @@
     "boss_image": "https://i.imgur.com/jzINytN.png",
     "strat": [
       "Le boss possède le passif **Cotte de granit** qui augmente ses résistences, mais qui diminue lorsqu'il reçoit un sort de mélée ou une collision",
-      "Lorsque **Cotte de granit** atteint le niveau 0, le boss gagne le passif **Reformation Sismique** qui augmente sa résistence élémentaire qui augmente d'1 niveau à la fin de chaque tour, au niveau 10, le boss reforme sa **Cotte de granit**"
+      "Lorsque **Cotte de granit** atteint le niveau 0, le boss gagne le passif **Reformation Sismique** qui augmente sa Résistance Elémentaire qui augmente d'1 niveau à la fin de chaque tour, au niveau 10, le boss reforme sa **Cotte de granit**"
     ],
     "other": [
       "Le donjon possède 2 routes: la route extérieure qui est plus longue mais plus facile et la route par les mines qui est plus courte mais plus difficile",
@@ -376,9 +376,11 @@
     "epic": "L'Amollusky (Amulette | Niveau 65)",
     "boss_name": "Kralaboss",
     "boss_image": "https://i.imgur.com/plk8djK.png",
-    "strat": ["Chaque monstre gagne 1 PW par tour ce qui débloque certains sorts, le boss en gagne également dès qu'il reçoit des dégats",
-             "Les glyphes de bordure et **Kralamouille** permettent d'infliger des dégats au boss sans monter ses PW",
-             "Si le boss est sur ces glyphes, il perdra ses PW et donc, ne pourra pas lancer son **High Voltage**"],
+    "strat": [
+      "Chaque monstre gagne 1 PW par tour ce qui débloque certains sorts, le boss en gagne également dès qu'il reçoit des dégats",
+      "Les glyphes de bordure et **Kralamouille** permettent d'infliger des dégats au boss sans monter ses PW",
+      "Si le boss est sur ces glyphes, il perdra ses PW et donc, ne pourra pas lancer son **High Voltage**"
+    ],
     "other": ["Aucun"]
   },
   {
@@ -546,13 +548,17 @@
     "epic": "Sain Turastil (Ceinture | Niveau 95)",
     "boss_name": "Vampyro",
     "boss_image": "https://i.imgur.com/4GeTQPo.png",
-    "strat": ["Les cases de bordure des 3 premières salles transforment le joueur qui s'y trouve en goule ce qui le ferra se téléporter et prendre les dégats à la place du monstre attaqué pendant un tour, il est aussi blessé par les soins",
-             "Dans la 3ème salle, si un joueur est alligné avec une **Chauffe-souris**, celle-ci l'attirera vers une case de bordure et si un joueur frappe une **Chauffe-souris** sur un nuage alors qu'un autre joueru est trasformé en goule, ce dernier se téléportera à la place de la **Chauffe-souris** et mourra instantanément",
-             "Les cases de bordure de la salle du boss ont 33% de tuer instantanément le joueur qui s'y trouve",
-             "A chaque début de tour, le boss ferra perdre de la PO et des résistences à tous les joueurs qui lui font face",
-             "Si un joueur se retrouve téléporté sur le socle, détruire ce dernier ou le joueur mourra",
-             "Au coup final, le boss se bloque à 1PV, il suffit de survivre à son prochain tour et il finira par mourir de lui même au tour suivant"],
-    "other": ["Si un personnage meurt lors d’un combat, L'acces à la salle suivante est impossible"]
+    "strat": [
+      "Les cases de bordure des 3 premières salles transforment le joueur qui s'y trouve en goule ce qui le ferra se téléporter et prendre les dégats à la place du monstre attaqué pendant un tour, il est aussi blessé par les soins",
+      "Dans la 3ème salle, si un joueur est alligné avec une **Chauffe-souris**, celle-ci l'attirera vers une case de bordure et si un joueur frappe une **Chauffe-souris** sur un nuage alors qu'un autre joueur est trasformé en goule, ce dernier se téléportera à la place de la **Chauffe-souris** et mourra instantanément",
+      "Les cases de bordure de la salle du boss ont 33% de tuer instantanément le joueur qui s'y trouve",
+      "A chaque début de tour, le boss ferra perdre de la PO et des résistences à tous les joueurs qui lui font face",
+      "Si un joueur se retrouve téléporté sur le socle, détruire ce dernier ou le joueur mourra",
+      "Au coup final, le boss se bloque à 1PV, il suffit de survivre à son prochain tour et il finira par mourir de lui même au tour suivant"
+    ],
+    "other": [
+      "Si un personnage meurt lors d’un combat, L'acces à la salle suivante est impossible"
+    ]
   },
   {
     "cmd": "trool",
@@ -623,10 +629,12 @@
     "epic": "Bottes Botbodek (Bottes | Niveau 95)",
     "boss_name": "Scarador",
     "boss_image": "https://i.imgur.com/RSGdszw.png",
-    "strat": ["Le boss possède 99% de résistence dans tous les éléments et il invoque 4 **Scarafons** tous les 3 tours ou si il y'en a plus au début de son tour",
-             "Chaque **Scarafon** possède 99% de résistence dans un élément et des résistence normales pour les autres",
-             "A chaque fois qu'un **Scarafon** est tué, le boss perd sa résistence dans l'élément du **Scarafon** tué pendant 1 tour et récuperera de la vie si il reste d'autre scarafons en combat",
-             "Si les 4 **Scarafons** sont tués dans le même tour, le boss passer à -57% de résistence élémentaire pendant 1 tour"],
+    "strat": [
+      "Le boss possède 99% de résistence dans tous les éléments et il invoque 4 **Scarafons** tous les 3 tours ou si il y'en a plus au début de son tour",
+      "Chaque **Scarafon** possède 99% de résistence dans un élément et des résistence normales pour les autres",
+      "A chaque fois qu'un **Scarafon** est tué, le boss perd sa résistence dans l'élément du **Scarafon** tué pendant 1 tour et récuperera de la vie si il reste d'autre scarafons en combat",
+      "Si les 4 **Scarafons** sont tués dans le même tour, le boss passer à -57% de résistence élémentaire pendant 1 tour"
+    ],
     "other": ["Aucun"]
   },
   {
@@ -758,9 +766,11 @@
     "epic": "Claymore de Fhenris (Arme à 2 mains | Niveau 110)",
     "boss_name": "Yech'ti'Wawa",
     "boss_image": "https://i.imgur.com/5YLUYJ9.png",
-    "strat": ["Lorsqu'un monstre meurt, sauf **Mulmounes**, il se transforme en glace et cette dernière peut le réssuciter",
-             "Tous les monstres ont l'état **Engelures Eternelles** qui inflige des dégats si un joueur commence ou termine son tour au Corps à Corps d'un ennemi",
-             "Tous les 2 tours le boss lance le sort **Ren’Wawa** qui lui permet de renvoyer tous les sorts monocibles sur le lanceur, il faut donc le taper en utilisant des sorts de zone mais sans le cibler dirrectement"],
+    "strat": [
+      "Lorsqu'un monstre meurt, sauf **Mulmounes**, il se transforme en glace et cette dernière peut le réssuciter",
+      "Tous les monstres ont l'état **Engelures Eternelles** qui inflige des dégats si un joueur commence ou termine son tour au Corps à Corps d'un ennemi",
+      "Tous les 2 tours le boss lance le sort **Ren’Wawa** qui lui permet de renvoyer tous les sorts monocibles sur le lanceur, il faut donc le taper en utilisant des sorts de zone mais sans le cibler dirrectement"
+    ],
     "other": ["Aucun"]
   },
   {
@@ -796,11 +806,15 @@
     "epic": "Cape de Visibilité (Cape | Niveau 110)",
     "boss_name": "Chapo Magik",
     "boss_image": "https://i.imgur.com/U8n9XvV.png",
-    "strat": ["Le boss est imunisé aux dégats directs",
-             "Si le boss est frappé dans le dos, il invoque un **Chapo Riktus** (1 invocation par tour de personnage)",
-             "Dès qu'il y'a 3 **Chapo Riktus** dans le combat, le boss perd son imunité aux dégats directs",
-             "Chaque **Chapo Riktus** invoque 1 à 2 Riktus pendant les 2 premiers tours"],
-    "other": ["Pour obtenir l'exploit **Les Sept Riktus III**, il faut achever le boss avec des dégâts indirects"]
+    "strat": [
+      "Le boss est imunisé aux dégats directs",
+      "Si le boss est frappé dans le dos, il invoque un **Chapo Riktus** (1 invocation par tour de personnage)",
+      "Dès qu'il y'a 3 **Chapo Riktus** dans le combat, le boss perd son imunité aux dégats directs",
+      "Chaque **Chapo Riktus** invoque 1 à 2 Riktus pendant les 2 premiers tours"
+    ],
+    "other": [
+      "Pour obtenir l'exploit **Les Sept Riktus III**, il faut achever le boss avec des dégâts indirects"
+    ]
   },
   {
     "cmd": "dragoncochon",
