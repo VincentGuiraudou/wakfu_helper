@@ -29,17 +29,12 @@ setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 10000);
 
-bot.once("ready", () => {
+bot.on("ready", () => {
   console.log("Bot Ready !");
+  bot.user.setActivity('Wakfu', { type: 'WATCHING' });
 });
 
 bot.on("message", message => {
-  bot.user.setPresence({
-            activity: {
-                name: 'Wakfu | w!help',
-                type: 'PLAYING'
-            }
-        });
   if (message.content.startsWith(`${prefix}`)) {
     var cmd = message.content.substring(prefixLength).split(" ");
     switch (cmd[0]) {
