@@ -31,7 +31,13 @@ setInterval(() => {
 
 bot.on("ready", () => {
   console.log("Bot Ready !");
-  bot.user.setActivity('Wakfu', { type: 'WATCHING' });
+  bot.user.setPresence({
+    status: "online",
+    activity: {
+      name: "w!help",
+      type: "WATCHING"
+    }
+  });
 });
 
 bot.on("message", message => {
