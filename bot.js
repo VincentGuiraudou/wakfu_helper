@@ -34,7 +34,7 @@ bot.once("ready", () => {
 });
 
 bot.on("message", message => {
-  bot.user.setActivity("Wakfu", { type: "Playing" });
+  bot.user.setActivity("Wakfu", { type: "PLAYING" });
   if (message.content.startsWith(`${prefix}`)) {
     var cmd = message.content.substring(prefixLength).split(" ");
     switch (cmd[0]) {
