@@ -27,14 +27,19 @@ app.get("/", (request, response) => {
 app.listen(process.env.PORT);
 setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
-}, 200000);
+}, 10000);
 
 bot.once("ready", () => {
   console.log("Bot Ready !");
 });
 
 bot.on("message", message => {
-  bot.user.setActivity("Wakfu", { type: "PLAYING" });
+  bot.user.setPresence({
+            activity: {
+                name: 'Wakfu | w!help',
+                type: 'PLAYING'
+            }
+        });
   if (message.content.startsWith(`${prefix}`)) {
     var cmd = message.content.substring(prefixLength).split(" ");
     switch (cmd[0]) {
